@@ -20,6 +20,3 @@ Language - Python
 
 #Authors 
 Venkata Kishore Baddukonda
-
-
- 
